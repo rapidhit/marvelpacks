@@ -1,1 +1,0 @@
-importScripts('https://pushcamp.rambodata.com/pn/sw-core.js');
